@@ -1,7 +1,8 @@
 # face-detection
 
 <br>
-Introduction
+
+<b>Introduction</b>
 <br>
 <br>
 Face detection is a computer vision technology that helps to locate/visualize human faces in digital 
@@ -13,9 +14,8 @@ importance especially in fields like photography, security, and marketing.
 <br>
 <br>
 
-Innovation Idea of Project
-<br>
-<br>
+<b>Innovation Idea of Project</b>
+
 1. It can Detect faces easily with less time of execution. 
 2. It can Detect Face in any quality of Images even blur. 
 3. It can Detect single, double or even multiple faces in any Image. 
@@ -25,9 +25,8 @@ processing of face detection.
 <br>
 <br>
 
-Scope of Project
-<br>
-<br>
+<b>Scope of Project</b>
+
 To identify and verify terrorists at airports, railway stations and malls the face recognition technology will be the best 
 choice in India as compared with other biometric technologies since other technologies cannot be helpful in crowded 
 places. 
@@ -42,9 +41,8 @@ take attendance
 <br>
 <br>
 
-OpenCV-Python
-<br>
-<br>
+<b>OpenCV-Python</b>
+
 OpenCV essentially stands for Open Source Computer Vision Library. Although it is written in optimized C/C++, 
 it has interfaces for Python and Java along with C++. OpenCV boasts of an active user base all over the world with its use 
 increasing day by day due to the surge in computer vision applications. 
@@ -56,9 +54,8 @@ intensive programs
 <br>
 <br>
 
-Haar feature-based cascade classifiers
-<br>
-<br>
+<b>Haar feature-based cascade classifiers</b>
+
 Haar-like features are digital image features used in object recognition. They owe their name to their intuitive similarity with 
 Haar wavelets and were used in the first real-time face detector. Paul Viola and Michael Jones in their paper titled "Rapid 
 Object Detection using a Boosted Cascade of Simple Features" used the idea of Haar-feature classifier based on the Haar 
